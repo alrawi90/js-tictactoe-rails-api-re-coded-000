@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+
 gem 'pry'
 gem 'pry-nav'
 gem 'active_model_serializers'
